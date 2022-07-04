@@ -10,7 +10,7 @@ const CakeView = () => {
 
   return (
     <div>
-      <div>CakeView</div>
+      <div><h2>Toko Kue</h2></div>
       <h1>Total Cakes: {totalCakesRedux}</h1>
       <button onClick={() => dispatch(decrementCake())}>Decrement Cake</button>
       <button onClick={() => dispatch(restockCake())}>Restock Cake</button>
