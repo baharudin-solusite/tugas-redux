@@ -10,3 +10,4 @@
 - refresi [https://github.com/baharudin-solusite/06-react-redux.git](https://github.com/baharudin-solusite/06-react-redux.git)
 - wajib mempelajari useState React
 - refrensi react cek disini [https://github.com/baharudin-solusite/00-Writing-React-JS.git](https://github.com/baharudin-solusite/00-Writing-React-JS.git)
+- Menit ke 2.39.00
